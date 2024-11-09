@@ -14,14 +14,14 @@
     "evm-tx-deployer-bot.git",
     "evm-bot",
     "smartcontract",
-    "widiskel",
+    "rambeboy",
     "smartcontract-deployer"
   ],
-  "author": "Widiskel",
+  "author": "Rambeboy",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Widiskel/evm-tx-deployer-bot.git.git"
+    "url": "git+https://github.com/Rambeboy/evm-tx-deployer-bot.git.git"
   },
   "dependencies": {
     "bip39": "^3.1.0",
