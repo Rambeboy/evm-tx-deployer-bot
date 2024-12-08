@@ -1,7 +1,5 @@
 ## EVM TX & DEPLOYER BOT
 
-![intro](assets/img1.png)
-
 The Evm Testnet Bot is a powerful tool designed for interacting with EVM-compatible networks. This bot automates transaction processes, enabling users to perform actions such as ETH to WETH swap interactions seamlessly and daily. Additionally, it provides a built-in smart contract deployment feature, making it an ideal solution for you to do your testnet airdrop.
 
 ---
