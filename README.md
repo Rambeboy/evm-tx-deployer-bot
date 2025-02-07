@@ -219,9 +219,9 @@ Explanation :
 | **RPC.EXPLORER**                     | Block explorer URL for transaction tracking. Example: `"https://odyssey-testnet-explorer.storyscan.xyz/"`. |
 | **RPC.SYMBOL**                       | The ticker symbol of the blockchain's native currency. Example: `"IP"`. |
 
-what contract address is it ? that is contract address that i've deployed on story chain.
+What contract address is it ? that is contract address that i've deployed on story chain.
 
-on the deployer contract i create function called ping just for interaction. so you can interact with your own deployed contract on this tool
+In the deployer contract i create function called ping just for interaction. so you can interact with your own deployed contract on this tool.
 
 ## CONTRIBUTE
 
